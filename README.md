@@ -2,9 +2,10 @@
 
 ## Members
 
-<b>이건준</b> - ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
+<b>이건준</b> - ![Unity Badge](https://img.shields.io/badge/Unity-FFF?logo=unity&logoColor=000&style=flat-square)
 
-<b>김호진</b> - ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+<b>김호진</b> - ![Unity Badge](https://img.shields.io/badge/Unity-FFF?logo=unity&logoColor=000&style=flat-square) ![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=flat-square) ![Ultralytics Badge](https://img.shields.io/badge/Ultralytics-111F68?logo=ultralytics&logoColor=fff&style=flat-square)
 
-<b>서동영</b> - ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) 
+<b>서동영</b> - ![LangChain Badge](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=fff&style=flat-square)
 
+<b>이준재</b> - ![Unity Badge](https://img.shields.io/badge/Unity-FFF?logo=unity&logoColor=000&style=flat-square)
